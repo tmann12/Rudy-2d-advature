@@ -3123,7 +3123,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2091977559}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.5626, y: 1.4012, z: 0}
+  m_LocalPosition: {x: 2.538, y: 1.385, z: 0}
   m_LocalScale: {x: 1.0569, y: 1.0667, z: 1}
   m_Children: []
   m_Father: {fileID: 1294205155}
@@ -15787,5 +15787,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruby
       objectReference: {fileID: 0}
+    - target: {fileID: 8714838727393248957, guid: b666b6f51b3e849749388c6462c81f29, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: b77822e0485373d40b5beb92e9a5e728, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b666b6f51b3e849749388c6462c81f29, type: 3}
