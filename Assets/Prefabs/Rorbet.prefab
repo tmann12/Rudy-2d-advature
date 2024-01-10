@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8221427778653951387}
   - component: {fileID: 609250705135789708}
   - component: {fileID: 8920163205696438170}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Rorbet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
